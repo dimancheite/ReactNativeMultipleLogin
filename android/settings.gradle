@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_multiple_login'
+
+include ':app'
